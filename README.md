@@ -23,4 +23,4 @@ Strange,  to  wander  in  the  fog
 No  man  knows  the  next  man<br>
 　　　each  is  alone<br>   
 　　　　　　　　　　　　　---By Hesse<br>
-You know, sometimes, lige
+
