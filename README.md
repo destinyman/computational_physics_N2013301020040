@@ -8,7 +8,7 @@ Well, starting the direction with a poem to illustrate what I'am going to talk a
 ***No  tree  sees  the  next  one***  
 　　　***each  is  alone*** 
        
-8**My  world  is   full  of  friends***  
+***My  world  is   full  of  friends***  
 　　　***when  my  life  is  filled  with  light<br>***
 ***Now  as  the  fog  decends<br>***
 　　　***none  is  still  to  be  seen***
