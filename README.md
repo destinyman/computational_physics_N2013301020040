@@ -18,7 +18,7 @@ Well, starting the direction with a poem to illustrate what I'am going to talk a
 ***Which  is  quietly  and  inescapably<br>***
 　　　***seperates  him  from  anyone  else***
  
-***Strange,  to  wander  in  the  fog*** 
+***Strange,  to  wander  in  the  fog<br>*** 
 　　　***to  live  is  to  be  alone<br>*** 
 ***No  man  knows  the  next  man<br>***
 　　　***each  is  alone<br>***   
