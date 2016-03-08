@@ -1,6 +1,6 @@
 # The distance between "hearts"
 ____
-Well, starting the direction with a poem to demonstrate what I'am going to talk about seems to be a good idea.
+Well, starting the direction with a poem to illustrate what I'am going to talk about seems to be a good idea.
 
 
 Strange, to  wander  in  the  fog                                                   
