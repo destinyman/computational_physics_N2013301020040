@@ -21,6 +21,5 @@ Well, starting the direction with a poem to illustrate what I'am going to talk a
 ***Strange,  to  wander  in  the  fog<br>*** 
 　　　***to  live  is  to  be  alone<br>*** 
 ***No  man  knows  the  next  man<br>***
-　　　***each  is  alone<br>***   
-　　　　　　　　　　　　　　　　　　---By Hesse<br>
+　　　***each  is  alone<br>***   　　　　　　　　　　　　　　　　　　　　　　---By Hesse<br>
 　　In this poem, the poest confessed his own thought over the existence state of human beings. He thought as long as we existence in this world, we were all alone. Even if we lived in the same society, breathe the same air, walked on the same land, talked about the same weather, and spoke the same language, we were all alone in the depth of our hearts. The distance between hearts is far byond the reach of any superfacial contacts. 
