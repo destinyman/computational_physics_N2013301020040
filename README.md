@@ -8,13 +8,7 @@
  
 ## Introdcution to the lesson
   #The computational physics lesson is dedicated for college students in department of physics.
- 　With the deep development of computatioal methods and the popularization of high speed computer，physicists are glad to find that with the
- help of this convinient tool, they are able to dedign much more complex and comprehensive model to quantitively research the complicated 
-system under actual conditions, on the basis of fundamental physics theories. Numerical computation and simulation based on fundamental
- physical principles have become an importrant bridge to connect theoritical physics and experimental physics, owing to its natural 
-strengthes in fast and accurate calculation and low cost in simulation, expecically in the field of condended matter nuclear physcis etx., 
-which requires superb technologies and expensive systems. Therefore, grasping necessary computational physics knowledge and methods has 
-become more and more essential for the development for a successful phusicist.
+ 　With the deep development of computatioal methods and the popularization of high speed computer，physicists are glad to find that with the help of this convinient tool, they are able to dedign much more complex and comprehensive model to quantitively research the complicated system under actual conditions, on the basis of fundamental physics theories. Numerical computation and simulation based on fundamental physical principles have become an importrant bridge to connect theoritical physics and experimental physics, owing to its natural strengthes in fast and accurate calculation and low cost in simulation, expecically in the field of condended matter nuclear physcis etc., which requires superb technologies and expensive systems. Therefore, grasping necessary computational physics knowledge and methods has become more and more essential for the development for a successful phusicist.
  
 ## Textbook
 - **Computational Physics**, Nicholas J. Giordano & Hisao Nakanishi
