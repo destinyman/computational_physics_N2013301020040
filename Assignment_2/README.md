@@ -11,8 +11,12 @@
   For physics major students, computational physics has become a very important branch, especially when we have to deal with vast data. In various computing softwares, we turn to python, which is quite popular among modern physics field. In this document, I would present a general concept of the major editor we use -- vim. Then, I would show some basic tricks for writing a python program. 
 
 ## Body 
-  In order to learn to use something new, we must know what it is and what it can do first. To put it in simple terms, vim is a kind of a editor, which you can use to write original program, just like writing simple text document. But this time, the readers are compilers and computers, so you have to use particular 'language' to make sure that the computer can understand what you want 'him' to do for you. Besides, you have to know that different 'languages' have its own unique 'grammars' and 'word'. Usually, they differ from each other, which is also quite common in real life: people from different places speak something with different languages. Consequently, you have to figure out what kind of machine your program are running on. In this part I would just introduce some common operations in conducting a vim editor. 
-  Here, I would give a brief description of how the software works. So at least,  you have to get one first. In the Linux operating system, you can get this done quite easily by input : "sudo apt-get install vim" into your command terminal, put in your password, and the computer will download and install this module from the Internet for you automatically. After that, input "vim" in command lines, you will enter the following window:
+  In order to learn to use something new, we must know what it is and what it can do first. To put it in simple terms, vim is a kind of a editor, which you can use to write original program, just like writing simple text document. But this time, the readers are compilers and computers, so you have to use particular 'language' to make sure that the computer can understand what you want 'him' to do for you. Besides, you have to know that different 'languages' have its own unique 'grammars' and 'word'. Usually, they differ from each other, which is also quite common in real life: people from different places speak something with different languages. Consequently, you have to figure out what kind of machine your program are running on. 
+
+
+
+To learn more about vim, you can turn to [《简明Vim练级攻略》](http://coolshell.cn/articles/5426.html) in Chinese version or to the English version [《Learn Vim Progressively》](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/) for more information. 
+
   
   
 
