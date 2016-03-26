@@ -52,7 +52,7 @@
 
 ### [Fourth Assignment](https://github.com/wuweipeng/computaitional_physics_N2013301020040/tree/master/Assignment_4)
 - Choose one of the problems for chapter one 
-- complete the detail of picture you draw above with matplotlib.
+- complete the details of picture you draw above with matplotlib.
   
   
   
