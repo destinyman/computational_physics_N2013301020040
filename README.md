@@ -4,11 +4,11 @@
  Student number: 2013301020040
  Wuhan University
 
- ***T***his repository is specially created for the learning of computational physics. mainly, the programs in this seciton are after-class assignments, while some maybe original creations just for fun. I wil continue to update the latest progress untill the end of the lesson.
+ **T**his repository is specially created for the learning of computational physics. mainly, the programs in this section are after-class assignments, while some maybe original creations just for fun. I will continue to update the latest progress until the end of the lesson.
  
-## Introdcution to the lesson
+## Introduction to the lesson
   #The computational physics lesson is dedicated for college students in department of physics.
- 　With the deep development of computatioal methods and the popularization of high speed computer，physicists are glad to find that with the help of this convinient tool, they are able to dedign much more complex and comprehensive model to quantitively research the complicated system under actual conditions, on the basis of fundamental physics theories. Numerical computation and simulation based on fundamental physical principles have become an importrant bridge to connect theoritical physics and experimental physics, owing to its natural strengthes in fast and accurate calculation and low cost in simulation, expecically in the field of condended matter nuclear physcis etc., which requires superb technologies and expensive systems. Therefore, grasping necessary computational physics knowledge and methods has become more and more essential for the development for a successful phusicist.
+ 　With the deep development of computational methods and the popularization of high speed computer，physicists are glad to find that with the help of this convenient tool, they are able to design much more complex and comprehensive model to quantitatively research the complicated system under actual conditions, on the basis of fundamental physics theories. Numerical computation and simulation based on fundamental physical principles have become an important bridge to connect theoretical physics and experimental physics, owing to its natural strengths in fast and accurate calculation and low cost in simulation, especially in the field of condensed matter nuclear physics etc., which requires superb technologies and expensive systems. Therefore, grasping necessary computational physics knowledge and methods has become more and more essential for the development for a successful physicist.
  
 ## Textbook
 - **Computational Physics**, Nicholas J. Giordano & Hisao Nakanishi
