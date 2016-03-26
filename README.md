@@ -27,13 +27,32 @@
 - [github](https://github.com/)
 
 
-### First assignment
-- install linux system 
+### [First Assignment](https://github.com/wuweipeng/computaitional_physics_N2013301020040/tree/master/Assignment_1)
+- install Linux system 
 - install python2.7 operating environment
 - register a github account and follow [caihao/computational_physics_whu](https://github.com/caihao/computational_physics_whu)
 - write your first README.md with markdown 
   
-  
+### [Second Assignment](https://github.com/wuweipeng/computaitional_physics_N2013301020040/tree/master/Assignment_2)
+- Learn how to use vim for yourself
+- Install a vim plug-in [Thesaurus Query](https://github.com/Ron89/thesaurus_query.vim) by a senior follow apprentice HeChong and star him.
+- Do exercise referring to [**How to think like a computer scientist -- Learning with Python: Interactive Edition 2.0**](http://interactivepython.org/runestone/static/thinkcspy/index.html)
+
+###  [Third Assignment](https://github.com/wuweipeng/computaitional_physics_N2013301020040/tree/master/Assignment_3)
+  There are three level in this part:
+  - level one: write a program to show your own name with stars on the screen.
+  - level two: write a program to display any input word in any order with stars on the screen.
+  - level three: write a program to display anything you want to draw with a 8*8 point lattice star on the screen.
+
+> **hint**：you can use the following program to clean up the screen
+> ```python
+> import os
+> i = os.system('cls')
+> ```
+
+### [Fourth Assignment](https://github.com/wuweipeng/computaitional_physics_N2013301020040/tree/master/Assignment_4)
+- Choose one of the problems for chapter one 
+- complete the detail of picture you draw above with matplotlib.
   
   
   
