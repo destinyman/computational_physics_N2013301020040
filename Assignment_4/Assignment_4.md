@@ -8,5 +8,6 @@
  
 ##  ***Body***
 Firstly, I showed the problem in chapter.
-1.6 
+1.6 Population growth problems often give rise to rate equations that are first-order. For example, the equation 
+![](http://latex.codecogs.com/gif.latex?dN/dt=aN-bN^2)
 > Written with [StackEdit](https://stackedit.io/).
