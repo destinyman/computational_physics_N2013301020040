@@ -23,13 +23,18 @@ With these theoretical preparations, the source program is written. [click here 
 
 - ***results and discussion***
 And finally, with the help of Matplotlib, I have drawn several pictures shown below with different parameters and initial values. They are shown below.
+
 (1). take  ![10](https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/10.gif)
   
 ![](https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/as4-plain_1.png)
 
 (2). take ![11](https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/11.gif)
 
+![as4-up_1](https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/as4-up_1.png)
+
 (3). take ![12](https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/12.gif)
+
+![as4-down_1](https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/as4-down_1.png)
 it is very clear that with different parameters, a and b, the curve develops quite different, as well, which can be easily accounted by the balance between birth rate and death rate. When a>bN, which means the number of new members overpasses that of death, hence the population goes up in term of explosion rate. On the contrary, when a<bN, which means human beings suffer from great catastrophes and the death rate suddenly rises up, in this case, man kind are dying out and the population goes down.
 while when a=bN, which means the birth rate almost equals the death rate, then the population will level out and stays in the same degree, which is a ideal society we have dreamed.
 
