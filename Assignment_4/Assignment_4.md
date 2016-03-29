@@ -12,23 +12,24 @@
   Firstly, I showed the problem in chapter.
 1.5 Population growth problems often give rise to rate equations that are first-order. For example, the equation
  
-  ![1](https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/1.gif)
+  ![9](https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/9.gif)
 
-might describe how the number of individuals in a population , N , varies with time. Here the first term aN corresponds to the birth of new members, while the second term -bN^2 corresponds to deaths. The death term is proportional to https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/CodeCogsEqn(1).gif?raw=true to  allow for the fact that food will become harder to find when the population becomes large. Begin by solving the equation above, with using the Euler method, and compare your numerical result with the exact solution. Then solve the equation with nonzero values . Give an intuitive explanation of your results. Interesting values of and depend on the initial population . For small ,is a good choice, while for a good choice is .
+might describe how the number of individuals in a population , N , varies with time. Here the first term aN corresponds to the birth of new members, while the second term  corresponds to deaths. The death term is proportional to ![1](https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/1.gif) to  allow for the fact that food will become harder to find when the population becomes large. Begin by solving the equation above, with using the Euler method, and compare your numerical result with the exact solution. Then solve the equation with nonzero values b. Give an intuitive explanation of your results. Interesting values of a and b depend on the initial population N. For small ,is a good choice, while for ![5](https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/5.gif) a good choice is .
 
 - ***methods and program ***
 From the given information, it is clear that the first-order rate equation has been given, so we can use the Euler method to calculate the expect value of population, given the initial value. The formula to that is shown as following:
-
+![8](https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/8.gif)
 With these theoretical preparations, the source program is written. [click here to cheek the program](https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/assignment_4.py)
 
 - ***results and discussion***
 And finally, with the help of Matplotlib, I have drawn several pictures shown below with different parameters and initial values. They are shown below.
-(1). take  'N(0)=1000, a=10, b=0.01, dt=0.01, t=1'
+(1). take  ![10](https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/10.gif)
   
 ![](https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/as4-plain_1.png)
 
-(2). take 
+(2). take ![11](https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/11.gif)
 
+(3). take ![12](https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/12.gif)
 it is very clear that with different parameters, a and b, the curve develops quite different, as well, which can be easily accounted by the balance between birth rate and death rate. When a>bN, which means the number of new members overpasses that of death, hence the population goes up in term of explosion rate. On the contrary, when a<bN, which means human beings suffer from great catastrophes and the death rate suddenly rises up, in this case, man kind are dying out and the population goes down.
 while when a=bN, which means the birth rate almost equals the death rate, then the population will level out and stays in the same degree, which is a ideal society we have dreamed.
 
