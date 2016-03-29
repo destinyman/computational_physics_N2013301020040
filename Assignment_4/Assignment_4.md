@@ -12,7 +12,7 @@
   Firstly, I showed the problem in chapter.
 1.5 Population growth problems often give rise to rate equations that are first-order. For example, the equation
  
-  ![formula1](https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/formula1.gif)
+  ![1](https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/1.gif)
 
 might describe how the number of individuals in a population , N , varies with time. Here the first term aN corresponds to the birth of new members, while the second term -bN^2 corresponds to deaths. The death term is proportional to https://github.com/wuweipeng/computaitional_physics_N2013301020040/blob/master/Assignment_4/pictures/CodeCogsEqn(1).gif?raw=true to  allow for the fact that food will become harder to find when the population becomes large. Begin by solving the equation above, with using the Euler method, and compare your numerical result with the exact solution. Then solve the equation with nonzero values . Give an intuitive explanation of your results. Interesting values of and depend on the initial population . For small ,is a good choice, while for a good choice is .
 
