@@ -11,7 +11,12 @@ I wrote a program to show letters composed of stars on the screen. The total pro
 
 ## ***Details and code***
 For level one, it's quite simple, just write the name with stars and print it out. It is presented downward:
-For level two, as I have said above, I just split the procedure into two parts, the division shows my progress in the program design. In version one, I spent five lines to write every letter with stars and use "**if**" dialog to determine which word the user want to print, hence I could only print one letter at one time. Then, in version two, I improved the program  by putting all letters into groups and cased them in one array, which provided all sections a number--from 0 to 129; next, the computer only needs to read the contents and order of the letters, and then determine which letters the user have put in and finds the relevant number of the letter and print it out on the screen. The relevant code and outcome are shown below:
+![level1_code](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_3/resources/level1_code.png)
+![level1](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_3/resources/level1.png)
+For level two, as I have said above, I just split the procedure into two parts, the division shows my progress in the program design. In version one, I spent five lines to write every letter with stars and use "**if**" dialog to determine which word the user want to print, hence I could only print one letter at one time.[click here to see the code](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_3/level2_2.0.pyrrr) some outcomes are listed below:
+![level2_2.0](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_3/resources/level2_2.0.png)
+ Then, in version two, I improved the program  by putting all letters into groups and cased them in one array, which provided all sections a number--from 0 to 129; next, the computer only needs to read the contents and order of the letters, and then determine which letters the user have put in and finds the relevant number of the letter and print it out on the screen. [click here to see the code](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_3/level2_2.1.py). The following are some examples:
+ ![level2_2.1](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_3/resources/level2_2.1.png)
 
 ## ***Conclusion***
 In conclusion, I have write a program to read and display letters with any length and order. 
