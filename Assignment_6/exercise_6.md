@@ -37,7 +37,7 @@ initial speed $v=100m/s$ , firing angle   $\alpha=45^{\circ}$
 ![figure_1](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_6/resources/figure_1.png)
 
 ## ***Acknowledgement***
-
+Thanks to WenTao Liu, who helped me when I was having trouble debugging the code.
 
 
 > Written with [StackEdit](https://stackedit.io/).
