@@ -44,7 +44,7 @@ the final step is the use the Euler method to solve the above equations. Some ty
 You can also [click here]() to see the source code.
  
 ##***Acknowledgement***
-
+Thanks to my classmate Feng Cheng for using his code while writing the program.
 
 
 > Written with [StackEdit](https://stackedit.io/).
