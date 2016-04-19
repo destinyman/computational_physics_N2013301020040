@@ -10,7 +10,8 @@
 **problem 2.19**
 　　Model the effect of the backspin on the range of a batted ball. Assume an angular velocity of 2000 rpm.
 solution to this problem is quite direct and similar to that of the solution of the cannon shell. At least. the basic equations of motion are of the same, which reads:
-$$x_{i+1}=x_{i}+v_{x,i}\Delta t$$$$v_{x,i+1}=v_{x,i}$$$$y_{i+1}=y_{i}+v_{y,i}\Delta t$$$$v_{y,i+1}=v_{y,i}-g\Delta t.$$ 　　Given the initial values of $x$, $y$, $v_{x}$ and $v_{y}$, we can use equations above to estimate their values at later times.
+$$x_{i+1}=x_{i}+v_{x,i}\Delta t$$
+$$v_{x,i+1}=v_{x,i}$$$$y_{i+1}=y_{i}+v_{y,i}\Delta t$$$$v_{y,i+1}=v_{y,i}-g\Delta t.$$ 　　Given the initial values of $x$, $y$, $v_{x}$ and $v_{y}$, we can use equations above to estimate their values at later times.
 　　However, a baseball in real life as the expected outcome above. To make the model more realistic, we must modify the force on the baseball when it's flying. In this chapter, I take three major factors into account: the air drag, the effect of the wind velocity and last, the spin of the ball. So in the following, I will explain how these factors affect the motion of the baseball and calculate the collective of these factors overall in one formula.
 　　Firstly, we include the air resistance and the effect of the wind velocity to the model and modify the calculation of the trajectory.  Before we do the calculation, we can catch a glimpse of how the air drag influences the motion of the baseball through a picture which show how the drag coefficient changes with the velocity of the baseball.
 
