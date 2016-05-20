@@ -36,9 +36,10 @@ def calculate(omega, theta, t,i):
 initialize(theta,omega,t)
 calculate(omega,theta,t,i)
 
-plot(theta,omega)
-xlabel('theta (radians) ')
-ylabel('omega (radians/s) ')
-xlim(1.1*min(theta),1.1*max(theta))
+plot(theta,omega,label='fD=0.5')
+xlabel('Theta (radians) ')
+ylabel('Omega (radians/s) ')
+xlim(1.1*min(theta),1)
+ylim(-1,1)
 show()
     
