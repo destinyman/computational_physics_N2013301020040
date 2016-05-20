@@ -3,7 +3,6 @@
 
 from pylab import *
 import math
-import pickle
 
 #declare necessary variables 
 g=9.8
@@ -55,23 +54,6 @@ def calculate1(v,c,r,vx,vy,fx,fy,x,y,i):
         i=i+1
     return 0
 
-#store data for trace with frictions
-def store1(y, x):
-    mfile = open("notes.txt", "a")
-    mfile.close()
-
-    pickle_file = open("pickled_data.pkl", "w")
-    pickle.dump(x, pickle_file)
-    pickle.dump(y, pickle_file)
-    return 0
-
-def read1():
-    pickle_file = open("pickled_data.pkl", "r")
-    x = pickle.load(pickle_file)
-    y = pickle.load(pickle_file)
-    print x
-    print y
-
 # calculate the trajectory of shell without friction
 def calculate(x1,vy1,y1,j):
     while (y1[j-1]>=0): 
@@ -81,29 +63,9 @@ def calculate(x1,vy1,y1,j):
         j=j+1
     return 0
 
-def store(y1, x1):
-    mfile = open("notes1.txt", "a")
-    mfile.close()
-
-    pickle_file = open("pickled_data1.pkl", "w")
-    pickle.dump(x1, pickle_file)
-    pickle.dump(y1, pickle_file)
-    return 0
-
-def read():
-    pickle_file = open("pickled_data1.pkl", "r")
-    x1 = pickle.load(pickle_file)
-    y1 = pickle.load(pickle_file)
-    print x1
-    print y1
-
 initialize(v, a, vx, vy, dt, vx1, vy1, i, j)
 calculate1(v,c,r,vx,vy,fx,fy,x,y,i)
 calculate(x1,vy1,y1,j)
-store1(y, x)
-store(y1, x1)
-
-
 
 # create a picture of 8 * 6 point, and set the resolution as 80
 figure(figsize=(8,6), dpi=80)
@@ -125,6 +87,4 @@ xlabel('herizonal distance x/m')
 #display and show the picture
 show()
 savefig("test_1.jpg")
-read()
-read1()
 

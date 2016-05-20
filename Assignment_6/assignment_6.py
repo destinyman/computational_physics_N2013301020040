@@ -3,7 +3,6 @@
 
 from pylab import *
 import math
-import pickle
 
 #declare necessary variables 
 g=9.8
