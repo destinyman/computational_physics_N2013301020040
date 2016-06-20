@@ -2,7 +2,7 @@ from pylab import *
 import math
 
 g=9.8
-q=1.0
+q=2.0
 l=1.0
 f=0.2
 omega_D=2.0
