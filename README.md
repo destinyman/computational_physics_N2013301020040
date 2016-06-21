@@ -92,11 +92,11 @@
 
 ### [thirteenth Assignment]
 -[written with 作业部落](https://www.zybuluo.com/Pontus/note/414551)<br>
--[code]()
+-[code](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_13/assignment_13.py)
 
 ### [Fourteenth Assignment]
--[written with 作业部落]()<br>
--[code]()
+-[written with 作业部落](https://www.zybuluo.com/Pontus/note/414710)<br>
+-[code](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_14/assignment_14.py)
 
 ### [Final assignment]
 -[written with 作业部落](https://www.zybuluo.com/Pontus/note/413485)<br>
