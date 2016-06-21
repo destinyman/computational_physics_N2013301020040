@@ -91,7 +91,7 @@
 -[code](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_12/assignment_12.py)
 
 ### [thirteenth Assignment]
--[written with 作业部落]()<br>
+-[written with 作业部落](https://www.zybuluo.com/Pontus/note/414551)<br>
 -[code]()
 
 ### [Fourteenth Assignment]
