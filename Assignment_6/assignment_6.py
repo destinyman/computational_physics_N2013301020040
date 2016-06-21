@@ -42,7 +42,7 @@ def initialize(_v, _a, _vx, _vy, _dt, _vx1, _vy1, _i, _j) :
 # calculate trajectory of shell with friction
 def calculate1(v,c,r,vx,vy,fx,fy,x,y,i):
     while int(y[i-1])>=0 and (1.0-A*y[i-1])>0:
-        v.append(vx[i-1]**2+vy[i-1]**2)
+        v.append(math.sqrt(vx[i-1]**2+vy[i-1]**2))
         c.append((1.-A*y[i-1])**n)
         r.append(0.00004*v[i-1])
         fx.append(c[i-1]*r[i-1]*vx[i-1])
