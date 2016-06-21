@@ -13,6 +13,7 @@ a = 2.17e-5
 b = 2.5
 omega = 1.75e-3
 
+# the state class of flight
 class flight_state:
     def __init__(self, _x = 0, _y = 0, _z =0, _vx = 0, _vy = 0, _vz =0, _t = 0):
         self.x = _x
@@ -22,7 +23,7 @@ class flight_state:
         self.vx = _vx
         self.vy = _vy
         self.t = _t
-
+# cannon class that analog cannon's state
 class cannon:
     def __init__(self, _fs = flight_state(0, 0, 0, 0, 0, 0, 0), _dt = 0.1):
         self.cannon_flight_state = []
@@ -103,7 +104,7 @@ class adiabatic_drag_cannon(cannon):
         next_x = current_state.x + current_state.vx * self.dt     
         next_z = current_state.z + current_state.vz * self.dt      
         next_y = current_state.y + current_state.vy * self.dt
-        next_vy = current_state.vy - b2m * v * current_state.vy *i self.dt * ((1 - a * current_state.z)**b)
+        next_vy = current_state.vy - b2m * v * current_state.vy * self.dt * ((1 - a * current_state.z)**b)
         next_vx = current_state.vx - b2m * v * current_state.vx * (1. - a * current_state.z) * self.dt 
         next_vz = current_state.vz - g * self.dt - b2m * v * current_state.vz * self.dt * ((1-a*current_state[-1].z)**b)
         
