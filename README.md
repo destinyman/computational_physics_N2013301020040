@@ -58,49 +58,49 @@
 - continue assignment_4 and choose another problem in chapter one. 
 
 ### [Sixth Assignment]
-[written with 作业部落](https://www.zybuluo.com/Pontus/note/413930)
-[code](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_6/assignment_6.py)
+-[written with 作业部落](https://www.zybuluo.com/Pontus/note/413930)<br>
+-[code](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_6/assignment_6.py)
 
 ### [Seventh Assignment]
-[written with 作业部落](https://www.zybuluo.com/Pontus/note/413940)
-[code](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_7/assignment_7.py)
+-[written with 作业部落](https://www.zybuluo.com/Pontus/note/413940)<br>
+-[code](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_7/assignment_7.py)
 
 ### [Eighth Assignment]
-[written with 作业部落](https://www.zybuluo.com/Pontus/note/321465)
-[code](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_8/assignment_8.py)
+-[written with 作业部落](https://www.zybuluo.com/Pontus/note/321465)<br>
+-[code](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_8/assignment_8.py)
 
 ### [Ninth Assignment]
-[written with 作业部落](https://www.zybuluo.com/Pontus/note/412215)
-[code1](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_9/assignment_9.py)
-[code2](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_9/assignment_9_1.py)
+-[written with 作业部落](https://www.zybuluo.com/Pontus/note/412215)<br>
+-[code1](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_9/assignment_9.py)<br>
+-[code2](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_9/assignment_9_1.py)
 
 ### [Tenth Assignment]
-[written with 作业部落](https://www.zybuluo.com/Pontus/note/412309)
-[code](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_10/assignment_10.py)
-[trajectory](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_10/trajectory.py)
-[variation](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_10/variation.py)
+-[written with 作业部落](https://www.zybuluo.com/Pontus/note/412309)<br>
+-[code](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_10/assignment_10.py)<br>
+-[trajectory](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_10/trajectory.py)<br>
+-[variation](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_10/variation.py)
 
 ### [Eleventh Assignment]
-[written with 作业部落]()
-[binary_system](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_11/binary_system.py)
-[Elipse](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_11/elli_orbit.py)
-[solar_system](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_11/solar_system.py%7E)
+-[written with 作业部落]()<br>
+-[binary_system](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_11/binary_system.py)<br>
+-[Elipse](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_11/elli_orbit.py)<br>
+-[solar_system](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_11/solar_system.py%7E)
 
 ### [twelfth Assignment]
-[written with 作业部落]()
-[code](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_12/assignment_12.py)
+-[written with 作业部落]()<br>
+-[code](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_12/assignment_12.py)
 
 ### [thirteenth Assignment]
-[written with 作业部落]()
-[code]()
+-[written with 作业部落]()<br>
+-[code]()
 
 ### [Fourteenth Assignment]
-[written with 作业部落]()
-[code]()
+-[written with 作业部落]()<br>
+-[code]()
 
 ### [Final assignment]
-[written with 作业部落](https://www.zybuluo.com/Pontus/note/413485)
-[code](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/final.py)
+-[written with 作业部落](https://www.zybuluo.com/Pontus/note/413485)<br>
+-[code](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/final.py)
 
   
   
