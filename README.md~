@@ -81,7 +81,7 @@
 -[variation](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_10/variation.py)
 
 ### [Eleventh Assignment]
--[written with 作业部落]()<br>
+-[written with 作业部落](https://www.zybuluo.com/Pontus/note/414161)<br>
 -[binary_system](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_11/binary_system.py)<br>
 -[Elipse](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_11/elli_orbit.py)<br>
 -[solar_system](https://github.com/wuweipeng/computational_physics_N2013301020040/blob/master/Assignment_11/solar_system.py%7E)
